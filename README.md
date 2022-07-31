@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Portfolio](https://munna-portfolio-2356.netlify.app/)
 
-- 🌱 I’m currently learning **Redux**
+- 🌱 I’m currently learning **React Native**
 
 - ⏰ Recent Project 1 [Intertools](https://intertools-1402d.firebaseapp.com/)
 
@@ -11,13 +11,13 @@
 
 - 👨‍💻 All of my projects are available at [https://munna-portfolio-2356.netlify.app/](https://munna-portfolio-2356.netlify.app/)
 
-- 💬 Ask me about **React, NodeJS, Express JS**
+- 💬 Ask me about **MERN Stack Web Development**
 
-- 📫 How to reach me **ashikurrahmanmunna3@gmail.com**
+- 📫 Reach Me - **ashikurrahmanmunna3@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Ypc4Zf2vp-NkJ5njEXdDdHAhSiqtbkXB/view?usp=sharing](https://drive.google.com/file/d/1Ypc4Zf2vp-NkJ5njEXdDdHAhSiqtbkXB/view?usp=sharing)
+- 📄 Know about my experiences - [https://drive.google.com/file/d/1Ypc4Zf2vp-NkJ5njEXdDdHAhSiqtbkXB/view?usp=sharing](https://drive.google.com/file/d/1Ypc4Zf2vp-NkJ5njEXdDdHAhSiqtbkXB/view?usp=sharing)
 
-- ⚡ Fun fact **Express Is Cool!!!!😍😍**
+- ⚡ Fun fact is that - **Express Is Cool!!!!😍😍**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
