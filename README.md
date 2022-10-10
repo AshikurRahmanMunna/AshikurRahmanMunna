@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Portfolio](https://munna-portfolio-2356.netlify.app/)
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Socket.IO and WebRTC**
 
 - ⏰ Recent Project 1 [Intertools](https://intertools-1402d.firebaseapp.com/)
 
