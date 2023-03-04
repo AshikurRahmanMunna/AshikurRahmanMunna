@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on a **Ecommerce project**
 
-- 🌱 I’m currently learning **AI & Machine Learning Frameworks in Python**
+- 🌱 I’m currently learning **AI & Machine Learning Frameworks in Python & JavaScript and also Blockchain Development**
 
 - 👨‍💻 All of my projects are available at [https://munna-portfolio-2356.netlify.app/](https://munna-portfolio-2356.netlify.app/)
 
