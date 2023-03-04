@@ -15,6 +15,13 @@
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1_Z1BFgryO5Dj8WIHVEzKZy6zTpEpnSluyJSPTIbDlPo/edit](https://docs.google.com/document/d/1_Z1BFgryO5Dj8WIHVEzKZy6zTpEpnSluyJSPTIbDlPo/edit)
 
+<h3>TECHNOLOGY SKILLS</h3>
+Expertise: JavaScript, REST API, React.js, React Router, HTML5, CSS3, Node.js, MongoDB, Mongoose, Express.js, Next JS, 
+CSS Library: Tailwind CSS, Bootstrap 5
+Comfortable: React Native, Socket.io, WebRTC, electron, Python, Django, AWS S3, Typescript, Redux, Redux Toolkit, RTK Query
+Tools: GitHub, VsCode, Chrome Dev Tools, Netlify, Heroku, Firebase, Vercel
+Extra Skills: Adobe Photoshop, Adobe Illustrator, AutoCAD 2D, Microsoft Excel, Excel Formulas, Excel Macros
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/munna_ashikur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="munna_ashikur" height="30" width="40" /></a>
