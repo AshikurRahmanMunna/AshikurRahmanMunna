@@ -3,17 +3,17 @@
 
 <p align="left"> <a href="https://twitter.com/munna_ashikur" target="blank"><img src="https://img.shields.io/twitter/follow/munna_ashikur?logo=twitter&style=for-the-badge" alt="munna_ashikur" /></a> </p>
 
-- 🔭 I’m currently working on a **Ecommerce project**
+- 🔭 I’m currently working on a **Freelaning Marketplace**
 
 - 🌱 I’m currently learning **AI & Machine Learning Frameworks in Python & JavaScript and also Blockchain Development**
 
-- 👨‍💻 All of my projects are available at [https://munna-portfolio-2356.netlify.app/](https://munna-portfolio-2356.netlify.app/)
+- 👨‍💻 All of my projects are available at [www.armunna.me](https://www.armunna.me)
 
 - 💬 Ask me about **React, Node, Express, Electron, Django**
 
 - 📫 Reach me by email - **ashikurrahmanmunna3@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1_Z1BFgryO5Dj8WIHVEzKZy6zTpEpnSluyJSPTIbDlPo/edit](https://docs.google.com/document/d/1_Z1BFgryO5Dj8WIHVEzKZy6zTpEpnSluyJSPTIbDlPo/edit)
+- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1NTqaUtgd-bCm_6ljMiNRXaGG0shSpR14/view?usp=sharing)
 
 <h3>TECHNOLOGY SKILLS</h3>
 Expertise: JavaScript, REST API, React.js, React Router, HTML5, CSS3, Node.js, MongoDB, Mongoose, Express.js, Next JS, 
