@@ -13,7 +13,7 @@
 
 - 📫 Reach me by email - **ashikurrahmanmunna3@gmail.com**
 
-- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1NTqaUtgd-bCm_6ljMiNRXaGG0shSpR14/view?usp=sharing](https://drive.google.com/file/d/18yX0IzAj-Lo01iHX6I58DTFuZVta_4_4/view?usp=sharing), [CV](https://drive.google.com/file/d/1bwiaky42NcRYNcHvIyq5tR3Stw3Gr5m6/view?usp=sharing)
+- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/18yX0IzAj-Lo01iHX6I58DTFuZVta_4_4/view?usp=sharing), [CV](https://drive.google.com/file/d/1bwiaky42NcRYNcHvIyq5tR3Stw3Gr5m6/view?usp=sharing)
 
 <h3>TECHNOLOGY SKILLS</h3>
 Languages: JavaScript, TypeScript, Python <br>
