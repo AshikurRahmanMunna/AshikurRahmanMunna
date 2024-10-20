@@ -16,24 +16,24 @@
 - 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1NTqaUtgd-bCm_6ljMiNRXaGG0shSpR14/view?usp=sharing)
 
 <h3>TECHNOLOGY SKILLS</h3>
-<span style="color: #4493f8; font-weight: bold;">Languages:</span> JavaScript, TypeScript, Python <br>
-<span style="color: #4493f8; font-weight: bold;">Frontend:</span> React.js, Next.js, WebRTC, Agora SDK <br>
-<span style="color: #4493f8; font-weight: bold;">CSS Frameworks:</span> Tailwind CSS, Bootstrap 5, Material UI, Shadcn UI, Daisy UI <br>
-<span style="color: #4493f8; font-weight: bold;">State Management:</span> Redux, Redux Toolkit <br>
-<span style="color: #4493f8; font-weight: bold;">Data Fetching:</span> RTK Query, Tanstack Query, Axios, GraphQL <br>
-<span style="color: #4493f8; font-weight: bold;">Backend:</span> Node.js, Express.js, Socket.io, GraphQL <br>
-<span style="color: #4493f8; font-weight: bold;">ORM:</span> Mongoose, Prisma <br>
-<span style="color: #4493f8; font-weight: bold;">Storage:</span> AWS S3, Cloudinary <br>
-<span style="color: #4493f8; font-weight: bold;">Cloud:</span> VPS Hosting, DigitalOcean, AWS EC2, Docker, Nginx, AWS Cloudfront, AWS Route 53, Load balancer <br>
-<span style="color: #4493f8; font-weight: bold;">Database:</span> Redis, MongoDB, PostgreSQL <br>
-<span style="color: #4493f8; font-weight: bold;">Mobile App:</span> React Native, Expo, Bare React Native, React Navigation <br>
-<span style="color: #4493f8; font-weight: bold;">Desktop App:</span> Electron.js <br>
-<span style="color: #4493f8; font-weight: bold;">Data Mining:</span> Beautiful Soup, Selenium <br>
-<span style="color: #4493f8; font-weight: bold;">Testing:</span> Postman, Vitest, Jest <br>
-<span style="color: #4493f8; font-weight: bold;">Payment Gateway:</span> Stripe, SSLCOMMERZE <br>
-<span style="color: #4493f8; font-weight: bold;">Payout:</span> Wise, Adyen <br>
-<span style="color: #4493f8; font-weight: bold;">Design:</span> Adobe Photoshop, Adobe Illustrator, AutoCAD 2D <br>
-<span style="color: #4493f8; font-weight: bold;">Document:</span> Microsoft Word, Microsoft Excel, Microsoft Excel Macros <br>
+Languages: JavaScript, TypeScript, Python <br>
+Frontend: React.js, Next.js, WebRTC, Agora SDK <br>
+CSS Frameworks: Tailwind CSS, Bootstrap 5, Material UI, Shadcn UI, Daisy UI <br>
+State Management: Redux, Redux Toolkit <br>
+Data Fetching: RTK Query, Tanstack Query, Axios, GraphQL <br>
+Backend: Node.js, Express.js, Socket.io, GraphQL <br>
+ORM: Mongoose, Prisma <br>
+Storage: AWS S3, Cloudinary <br>
+Cloud: VPS Hosting, DigitalOcean, AWS EC2, Docker, Nginx, AWS Cloudfront, AWS Route 53, Load balancer <br>
+Database: Redis, MongoDB, PostgreSQL <br>
+Mobile App: React Native, Expo, Bare React Native, React Navigation <br>
+Desktop App: Electron.js <br>
+Data Mining: Beautiful Soup, Selenium <br>
+Testing: Postman, Vitest, Jest <br>
+Payment Gateway: Stripe, SSLCOMMERZE <br>
+Payout: Wise, Adyen <br>
+Design: Adobe Photoshop, Adobe Illustrator, AutoCAD 2D <br>
+Document: Microsoft Word, Microsoft Excel, Microsoft Excel Macros <br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
