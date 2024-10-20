@@ -16,24 +16,24 @@
 - 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1NTqaUtgd-bCm_6ljMiNRXaGG0shSpR14/view?usp=sharing)
 
 <h3>TECHNOLOGY SKILLS</h3>
-Languages: JavaScript, TypeScript, Python
-Frontend: React.js, Next.js, WebRTC, Agora SDK
-CSS Frameworks: Tailwind CSS, Bootstrap 5, Material UI, Shadcn UI, Daisy UI
-State Management: Redux, Redux Toolkit
-Data Fetching: RTK Query, Tanstack Query, Axios, GraphQL
-Backend: Node.js, Express.js, Socket.io, GraphQL
-ORM: Mongoose, Prisma
-Storage: AWS S3, Cloudinary
-Cloud: VPS Hosting, DigitalOcean, AWS EC2, Docker, Nginx, AWS Cloudfront, AWS Route 53, Load balancer
-Database: Redis, MongoDB, PostgreSQL
-Mobile App: React Native, Expo, Bare React Native, React Navigation
-Desktop App: Electron.js
-Data Mining: Beautiful Soup, Selenium
-Testing: Postman, Vitest, Jest
-Payment Gateway: Stripe, SSLCOMMERZE
-Payout: Wise, Adyen
-Design: Adobe Photoshop, Adobe Illustrator, AutoCAD 2D
-Document: Microsoft Word, Microsoft Excel, Microsoft Excel Macros
+Languages: JavaScript, TypeScript, Python <br>
+Frontend: React.js, Next.js, WebRTC, Agora SDK <br>
+CSS Frameworks: Tailwind CSS, Bootstrap 5, Material UI, Shadcn UI, Daisy UI <br>
+State Management: Redux, Redux Toolkit <br>
+Data Fetching: RTK Query, Tanstack Query, Axios, GraphQL <br>
+Backend: Node.js, Express.js, Socket.io, GraphQL <br>
+ORM: Mongoose, Prisma <br>
+Storage: AWS S3, Cloudinary <br>
+Cloud: VPS Hosting, DigitalOcean, AWS EC2, Docker, Nginx, AWS Cloudfront, AWS Route 53, Load balancer <br>
+Database: Redis, MongoDB, PostgreSQL <br>
+Mobile App: React Native, Expo, Bare React Native, React Navigation <br>
+Desktop App: Electron.js <br>
+Data Mining: Beautiful Soup, Selenium <br>
+Testing: Postman, Vitest, Jest <br>
+Payment Gateway: Stripe, SSLCOMMERZE <br>
+Payout: Wise, Adyen <br>
+Design: Adobe Photoshop, Adobe Illustrator, AutoCAD 2D <br>
+Document: Microsoft Word, Microsoft Excel, Microsoft Excel Macros <br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
