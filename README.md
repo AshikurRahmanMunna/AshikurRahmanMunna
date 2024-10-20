@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ashikur Rahman Munna</h1>
 <h3 align="center">A passionate full stack software developer from Bangladesh</h3>
 
-<p align="left"> <a href="https://www.linkedin.com/in/ashikurrahmanmunna/" target="blank"><img height="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRokEYt0yyh6uNDKL8uksVLlhZ35laKNQgZ9g&s" alt="ashikurrahmanmunna" /></a> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/ashikurrahmanmunna/" target="blank"><img width="120" src=https://i.ytimg.com/vi/ntHn586pt5E/hqdefault.jpg" alt="ashikurrahmanmunna" /></a> </p>
 
 - 🔭 What I Do: **I develop everything from interactive web applications to cross-platform mobile and desktop apps. I’m equally comfortable managing cloud infrastructure and pipelines as a DevOps engineer.**
 
