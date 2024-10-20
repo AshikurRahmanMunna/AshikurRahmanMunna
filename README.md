@@ -7,7 +7,7 @@
 
 - 👨‍💻 My Portfolio: [www.armunna.me](https://www.armunna.me)
 
-- 💬 Ask me about **I’m always happy to chat about React, Node.js, Express, Electron, or Django—let's dive into some code!**
+- 💬 Ask me about: **I’m always happy to chat about React, Node.js, Express or Electron. Lets dive into some code!**
 
 - 📫 Reach me by email - **ashikurrahmanmunna3@gmail.com**
 
