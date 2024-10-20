@@ -3,17 +3,17 @@
 
 <p align="left"> <a href="https://twitter.com/munna_ashikur" target="blank"><img src="https://img.shields.io/twitter/follow/munna_ashikur?logo=twitter&style=for-the-badge" alt="munna_ashikur" /></a> </p>
 
-- 🔭 I’m currently working on a **Freelaning Marketplace**
+- 🔭 What I Do: **I develop everything from interactive web applications to cross-platform mobile and desktop apps. I’m equally comfortable managing cloud infrastructure and pipelines as a DevOps engineer.**
 
-- 🌱 I’m currently learning **AI & Machine Learning Frameworks in Python & JavaScript and also Blockchain Development**
+- 🌱 Currently Exploring: **Delving into the exciting realms of AI & Machine Learning using Python and JavaScript, while also diving deep into Blockchain Development to stay ahead of tech trends.**
 
-- 👨‍💻 All of my projects are available at [www.armunna.me](https://www.armunna.me)
+- 👨‍💻 My Portfolio: [www.armunna.me](https://www.armunna.me)
 
-- 💬 Ask me about **React, Node, Express, Electron, Django**
+- 💬 Ask me about **I’m always happy to chat about React, Node.js, Express, Electron, or Django—let's dive into some code!**
 
 - 📫 Reach me by email - **ashikurrahmanmunna3@gmail.com**
 
-- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1NTqaUtgd-bCm_6ljMiNRXaGG0shSpR14/view?usp=sharing)
+- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1NTqaUtgd-bCm_6ljMiNRXaGG0shSpR14/view?usp=sharing](https://drive.google.com/file/d/18yX0IzAj-Lo01iHX6I58DTFuZVta_4_4/view?usp=sharing), [CV](https://drive.google.com/file/d/1bwiaky42NcRYNcHvIyq5tR3Stw3Gr5m6/view?usp=sharing)
 
 <h3>TECHNOLOGY SKILLS</h3>
 Languages: JavaScript, TypeScript, Python <br>
