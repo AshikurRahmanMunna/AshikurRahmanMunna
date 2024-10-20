@@ -16,11 +16,24 @@
 - 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1NTqaUtgd-bCm_6ljMiNRXaGG0shSpR14/view?usp=sharing)
 
 <h3>TECHNOLOGY SKILLS</h3>
-Expertise: JavaScript, REST API, React.js, React Router, HTML5, CSS3, Node.js, MongoDB, Mongoose, Express.js, Next JS, 
-CSS Library: Tailwind CSS, Bootstrap 5
-Comfortable: React Native, Socket.io, WebRTC, electron, Python, Django, AWS S3, Typescript, Redux, Redux Toolkit, RTK Query, Tensorflow.js
-Tools: GitHub, VsCode, Chrome Dev Tools, Netlify, Heroku, Firebase, Vercel
-Extra Skills: Adobe Photoshop, Adobe Illustrator, AutoCAD 2D, Microsoft Excel, Excel Formulas, Excel Macros
+Languages: JavaScript, TypeScript, Python
+Frontend: React.js, Next.js, WebRTC, Agora SDK
+CSS Frameworks: Tailwind CSS, Bootstrap 5, Material UI, Shadcn UI, Daisy UI
+State Management: Redux, Redux Toolkit
+Data Fetching: RTK Query, Tanstack Query, Axios, GraphQL
+Backend: Node.js, Express.js, Socket.io, GraphQL
+ORM: Mongoose, Prisma
+Storage: AWS S3, Cloudinary
+Cloud: VPS Hosting, DigitalOcean, AWS EC2, Docker, Nginx, AWS Cloudfront, AWS Route 53, Load balancer
+Database: Redis, MongoDB, PostgreSQL
+Mobile App: React Native, Expo, Bare React Native, React Navigation
+Desktop App: Electron.js
+Data Mining: Beautiful Soup, Selenium
+Testing: Postman, Vitest, Jest
+Payment Gateway: Stripe, SSLCOMMERZE
+Payout: Wise, Adyen
+Design: Adobe Photoshop, Adobe Illustrator, AutoCAD 2D
+Document: Microsoft Word, Microsoft Excel, Microsoft Excel Macros
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
