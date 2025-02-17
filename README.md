@@ -5,7 +5,7 @@
 
 - 🌱 Currently Exploring: **Delving into the exciting realms of AI & Machine Learning using Python and JavaScript, while also diving deep into Blockchain Development to stay ahead of tech trends.**
 
-- 👨‍💻 My Portfolio: [www.armunna.me](https://www.armunna.me)
+- 👨‍💻 My Portfolio: [www.armunna.com](https://www.armunna.com)
 
 - 💬 Ask me about: **I’m always happy to chat about React, Node.js, Express or Electron. Lets dive into some code!**
 
