@@ -22,14 +22,18 @@ Data Fetching: RTK Query, Tanstack Query, Axios, GraphQL <br>
 Backend: Node.js, Express.js, Socket.io, GraphQL <br>
 ORM: Mongoose, Prisma <br>
 Storage: AWS S3, Cloudinary <br>
-Cloud: VPS Hosting, DigitalOcean, AWS EC2, Docker, Nginx, AWS Cloudfront, AWS Route 53, Load balancer <br>
+Cloud & DevOPS: VPS Hosting, DigitalOcean, AWS EC2, Docker, Nginx, AWS Cloudfront, AWS Route 53, Load balancer <br>
 Database: Redis, MongoDB, PostgreSQL <br>
 Mobile App: React Native, Expo, Bare React Native, React Navigation <br>
 Desktop App: Electron.js <br>
-Data Mining: Beautiful Soup, Selenium <br>
 Testing: Postman, Vitest, Jest <br>
 Payment Gateway: Stripe, SSLCOMMERZE <br>
 Payout: Wise, Adyen <br>
+Data Mining: Beautiful Soup, Selenium <br>
+Data Processing & Analysis: Pandas, NumPy, Matplotlib<br />
+Machine Learning: Scikit-Learn, XGBoost, CatBoost<br />
+Natural Language Processing (NLP): spaCy, NLTK, Hugging Face Transformers, Gensim, FastText<br />
+Deep Learning: TensorFlow, Pytorch<br />
 Design: Adobe Photoshop, Adobe Illustrator, AutoCAD 2D <br>
 Document: Microsoft Word, Microsoft Excel, Microsoft Excel Macros <br>
 
