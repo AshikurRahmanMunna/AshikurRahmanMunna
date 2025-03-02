@@ -31,7 +31,7 @@ Data Mining: Beautiful Soup, Selenium <br>
 Data Processing & Analysis: Pandas, NumPy, Matplotlib<br />
 Machine Learning: Scikit-Learn, XGBoost, CatBoost<br />
 Natural Language Processing (NLP): spaCy, NLTK, Hugging Face Transformers, Gensim, FastText<br />
-Deep Learning: TensorFlow, Pytorch<br />
+Deep Learning: TensorFlow, Pytorch, Keras<br />
 Design: Adobe Photoshop, Adobe Illustrator, AutoCAD 2D <br>
 Document: Microsoft Word, Microsoft Excel, Microsoft Excel Macros <br>
 
